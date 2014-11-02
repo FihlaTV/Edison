@@ -1,12 +1,6 @@
-Local Temperature Node.js IoT App
+PennyPimping Node.js IoT App
 ============================
-The Local Temperature Node.js sample application distributed within Intel® XDK IoT Edition under the IoT with Node.js Projects project creation option showcases how to read analog data from a Grover Starter Kit Plus – IoT Intel® Edition Temperature Sensor, start a web server and communicate wirelessly using WebSockets.
-
-Intel(R) XDK IoT Edition
--------------------------------------------
-This template is part of the Intel(R) XDK IoT Edition. 
-Download the Intel(R) XDK IoT Edition at https://software.intel.com/en-us/html5/xdk-iot. To see the technical details of the sample, 
-please visit the sample article page at https://software.intel.com/en-us/html5/articles/iot-local-temperature-nodejs-and-html5-samples.
+Receives commands via POST requests and controls the LEDs accordingly
 
 
 Important App Files
