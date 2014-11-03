@@ -9,3 +9,6 @@ Important App Files
 * package.json
 * icon.png
 * README.md
+
+
+Run with [Intel XDK IOT Edition](https://software.intel.com/en-us/html5/xdk-iot).
