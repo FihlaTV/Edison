@@ -1,7 +1,10 @@
-PennyPimping Node.js IoT App
+PennyPimping
 ============================
-Receives commands via POST requests and controls the LEDs accordingly
+What is a Penny? It's a small skateboard. At YHack 2014, we decided to deck it out.
 
+Node.js IoT App
+---------------------------
+Receives commands via POST requests and controls the LEDs accordingly
 
 Important App Files
 ---------------------------
